@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        // 构造函数的继承
+        // Father.prototype.father = "Wang"
+        // function Father() {
+        // }
+        // function Son() {
+        // }
+        // function inherit(Target,Origin) {
+        //     Target.prototype = Origin.prototype;
+        // }
+        // inherit(Son,Father);
+        // var son = new Son();
+        // son.text = "asd";
+
+        // 命名空间现在的解决办法
+        // var name = "bcd";
+        // var init = function(){
+        //     var name = "普通函数表达式";
+        //     function callName(){
+        //         console.log(name);
+        //     }
+        //     return function (){
+        //         callName();
+        //     }
+        // }
+        // var t = init();
+        // t();
+        // var init = (function(){
+        //     var name = "立即执行函数"
+        //     function callName(){
+        //         console.log(name);
+        //     }
+        //     return function(){
+        //         callName();
+        //     }
+        // }())
+        // init();
+
+        var obj = {
+            name : "wang",
+            "age" : 18          // 在操作台上自动变成了   age : 18,
+        }                       //  也就是说 “age” 在类里和 age 没有一丝一毫的区别
+        console.log(obj.name);   // 可以
+        console.log(obj["name"]);  // 可以
+        console.log(obj['name']); // 可以
+        console.log(obj[name]);   // 返回undefined 是因为name本身有特殊含义，本来该报错的
+        console.log(obj.age);     // 可以
+        // console.log(obj[age]);  // 不行     因为age没了特殊含义，因此报错
+        console.log(obj["age"]);   // 可以
+        console.log(obj['age'])   // 可以
+        console.log(obj.age);     // 也可以
+    </script>
+</body>
+</html>

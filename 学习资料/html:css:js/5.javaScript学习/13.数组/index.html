@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        // var obj = {
+        //     "0" : 'a',   // 实质和‘’都是指代字符串
+        //     1 : 'b',
+        //     '2' : 'c'  // 这三者的构建结果没有任何区别
+        // }   // 但是 不能以 obj.1 obj.2 obj.0 的形式访问
+        //     // 只能以obj['0'] obj[0] 的形式访问
+        
+
+
+    var obj = {
+    "0" : 'a',
+    "1" : 'b',
+    "2" : 'c',
+    "lenght" : 3,
+    "push" : Array.prototype.push,
+    "splice" : Array.prototype.splice
+}
+Array.prototype.push = function(target) {
+    obj[obj.lenght] = target;
+    obj.lenght ++;
+}
+
+
+
+
+    </script>
+</body>
+</html>
