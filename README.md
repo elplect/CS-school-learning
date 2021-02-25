@@ -7,3 +7,6 @@ https://www.bilibili.com/video/BV1BE411D7ii
 b站的王道视频，看的时候属于时间比较赶的时候，就没有做笔记了。
 以后有空补上。
 
+暂时有：
+html/css/js
+vue
