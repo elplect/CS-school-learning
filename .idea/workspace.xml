@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9db187ac-217a-4bd8-bea7-d9f15990da89" name="默认更改列表" comment="" />
+    <list default="true" id="9db187ac-217a-4bd8-bea7-d9f15990da89" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,10 +41,23 @@
       <option name="presentableId" value="Default" />
       <updated>1614148627266</updated>
       <workItem from="1614148629008" duration="446000" />
+      <workItem from="1614260939668" duration="647000" />
     </task>
+    <task id="LOCAL-00001" summary="java mybatis 初步使用">
+      <created>1614261030112</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614261030112</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="java mybatis 初步使用" />
+    <option name="LAST_COMMIT_MESSAGE" value="java mybatis 初步使用" />
   </component>
 </project>
