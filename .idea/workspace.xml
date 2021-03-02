@@ -11,12 +11,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ouu79ue7sOJ2XUtU7kv6KOJGwL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -46,6 +49,7 @@
       <workItem from="1614148629008" duration="446000" />
       <workItem from="1614260939668" duration="647000" />
       <workItem from="1614351510239" duration="690000" />
+      <workItem from="1614434833146" duration="606000" />
     </task>
     <task id="LOCAL-00001" summary="java mybatis 初步使用">
       <created>1614261030112</created>
@@ -61,13 +65,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614351555630</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="java mybatis">
+      <created>1614434908459</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614434908459</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="java mybatis 初步使用" />
     <MESSAGE value="java mybatis" />
     <option name="LAST_COMMIT_MESSAGE" value="java mybatis" />
