@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9db187ac-217a-4bd8-bea7-d9f15990da89" name="默认更改列表" comment="" />
+    <list default="true" id="9db187ac-217a-4bd8-bea7-d9f15990da89" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/学习资料/java/markdown文档/8.mybatis/注解.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习资料/java/markdown文档/9.spring/1.概述和XML的IOC.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习资料/java/markdown文档/9.spring/2.注解的IOC.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习资料/java/markdown文档/9.spring/3.aop.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习资料/java/markdown文档/9.spring/4.Jdbc Template和事务控制.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +58,7 @@
       <workItem from="1614351510239" duration="690000" />
       <workItem from="1614434833146" duration="606000" />
       <workItem from="1614700166259" duration="183000" />
+      <workItem from="1614784665888" duration="882000" />
     </task>
     <task id="LOCAL-00001" summary="java mybatis 初步使用">
       <created>1614261030112</created>
@@ -80,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614700191661</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="java mybatis finish">
+      <created>1614784709314</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1614784709314</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +105,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="java mybatis 初步使用" />
     <MESSAGE value="java mybatis" />
-    <option name="LAST_COMMIT_MESSAGE" value="java mybatis" />
+    <MESSAGE value="java mybatis finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="java mybatis finish" />
   </component>
 </project>
