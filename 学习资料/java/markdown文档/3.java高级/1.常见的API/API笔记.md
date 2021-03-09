@@ -13,6 +13,6 @@ API[Application Programming interface],应用程序编写接口, Java API是一�
 一个可以解析基本类型和字符串的简单文本扫描器.实现键盘输入数据到程序中.
 
 - 构造方法
-  - ![image-20200906182407646](Untitled.assets/image-20200906182407646.png)
+  - ![image-20200906182407646](https://gitee.com/elplect/personal-image-bed/raw/master/beautyImg/image-20200906182407646.png)
   - 
 
