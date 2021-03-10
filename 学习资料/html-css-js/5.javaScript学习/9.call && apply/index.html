@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        function Person(name, age) {
+            this.name = name;
+            this.age = 300;
+        }
+
+        var person = new Person('Wang',100);
+        var obj = {}
+        Person.call(obj,'cheng',300)
+        person.call(obj,'T',200)
+
+
+    </script>
+</body>
+</html>

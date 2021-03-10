@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        input {
+            border:1px solid #008c8c;
+        }
+    </style>
+</head>
+<body>
+<input type="text" value="请输入用户名" 
+        onfocus="if(this.value=='请输入用户名'){this.value='',this.style.color= '#424242'} " 
+        onblur="if(this.value==''){this.value ='请输入用户名';this.style.color ='#999'}">
+    <script>
+        var input = document.getElementsByTagName('input')[0];
+        input.onchange = function(e){
+            console.log(this.value);
+        }
+    </script>
+</body>
+</html>
