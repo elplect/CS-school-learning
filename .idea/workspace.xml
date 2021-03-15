@@ -63,6 +63,7 @@
       <workItem from="1615396589955" duration="152000" />
       <workItem from="1615561370962" duration="504000" />
       <workItem from="1615650367758" duration="75000" />
+      <workItem from="1615735469511" duration="51000" />
     </task>
     <task id="LOCAL-00001" summary="java mybatis 初步使用">
       <created>1614261030112</created>
@@ -155,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615650402308</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="spring aop">
+      <created>1615735501306</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1615735501307</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,6 +178,7 @@
     <MESSAGE value="spring" />
     <MESSAGE value="spring bean and 编译原理" />
     <MESSAGE value="spring aop 动态代理" />
-    <option name="LAST_COMMIT_MESSAGE" value="spring aop 动态代理" />
+    <MESSAGE value="spring aop" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring aop" />
   </component>
 </project>
