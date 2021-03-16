@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9db187ac-217a-4bd8-bea7-d9f15990da89" name="默认更改列表" comment="" />
+    <list default="true" id="9db187ac-217a-4bd8-bea7-d9f15990da89" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/学习资料/java/markdown文档/9.spring/4.Jdbc Template和事务控制.md" beforeDir="false" afterPath="$PROJECT_DIR$/学习资料/java/markdown文档/9.spring/4.Jdbc Template和事务控制.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +66,7 @@
       <workItem from="1615561370962" duration="504000" />
       <workItem from="1615650367758" duration="75000" />
       <workItem from="1615735469511" duration="51000" />
+      <workItem from="1615823724704" duration="56000" />
     </task>
     <task id="LOCAL-00001" summary="java mybatis 初步使用">
       <created>1614261030112</created>
@@ -163,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615735501307</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="spring aop and JdbcTemplate">
+      <created>1615823747966</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1615823747966</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,6 +189,7 @@
     <MESSAGE value="spring bean and 编译原理" />
     <MESSAGE value="spring aop 动态代理" />
     <MESSAGE value="spring aop" />
-    <option name="LAST_COMMIT_MESSAGE" value="spring aop" />
+    <MESSAGE value="spring aop and JdbcTemplate" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring aop and JdbcTemplate" />
   </component>
 </project>
