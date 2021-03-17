@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9db187ac-217a-4bd8-bea7-d9f15990da89" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/学习资料/java/markdown文档/9.spring/4.Jdbc Template和事务控制.md" beforeDir="false" afterPath="$PROJECT_DIR$/学习资料/java/markdown文档/9.spring/4.Jdbc Template和事务控制.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +67,7 @@
       <workItem from="1615650367758" duration="75000" />
       <workItem from="1615735469511" duration="51000" />
       <workItem from="1615823724704" duration="56000" />
+      <workItem from="1615909451325" duration="769000" />
     </task>
     <task id="LOCAL-00001" summary="java mybatis 初步使用">
       <created>1614261030112</created>
@@ -173,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615823747966</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="spring 事务 and springMVC start">
+      <created>1615909569400</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1615909569401</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,6 +198,7 @@
     <MESSAGE value="spring aop 动态代理" />
     <MESSAGE value="spring aop" />
     <MESSAGE value="spring aop and JdbcTemplate" />
-    <option name="LAST_COMMIT_MESSAGE" value="spring aop and JdbcTemplate" />
+    <MESSAGE value="spring 事务 and springMVC start" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring 事务 and springMVC start" />
   </component>
 </project>
