@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9db187ac-217a-4bd8-bea7-d9f15990da89" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9db187ac-217a-4bd8-bea7-d9f15990da89" name="默认更改列表" comment="springMVC">
+      <change afterPath="$PROJECT_DIR$/学习资料/java/markdown文档/10.springMVC/2.基本使用.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +71,7 @@
       <workItem from="1615996017438" duration="1297000" />
       <workItem from="1615997533902" duration="243000" />
       <workItem from="1616079554431" duration="1056000" />
+      <workItem from="1616169094529" duration="39000" />
     </task>
     <task id="LOCAL-00001" summary="java mybatis 初步使用">
       <created>1614261030112</created>
@@ -198,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616079589814</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="springMVC">
+      <created>1616169107949</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1616169107949</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
