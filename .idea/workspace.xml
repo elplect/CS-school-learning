@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9db187ac-217a-4bd8-bea7-d9f15990da89" name="默认更改列表" comment="springMVC">
-      <change afterPath="$PROJECT_DIR$/学习资料/java/markdown文档/10.springMVC/2.基本使用.md" afterDir="false" />
-    </list>
+    <list default="true" id="9db187ac-217a-4bd8-bea7-d9f15990da89" name="默认更改列表" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,6 +70,7 @@
       <workItem from="1615997533902" duration="243000" />
       <workItem from="1616079554431" duration="1056000" />
       <workItem from="1616169094529" duration="39000" />
+      <workItem from="1616255461850" duration="70000" />
     </task>
     <task id="LOCAL-00001" summary="java mybatis 初步使用">
       <created>1614261030112</created>
@@ -206,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616169107949</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="springMVC end and ssm begin">
+      <created>1616255499055</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1616255499055</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,6 +231,7 @@
     <MESSAGE value="spring aop and JdbcTemplate" />
     <MESSAGE value="spring 事务 and springMVC start" />
     <MESSAGE value="springMVC" />
-    <option name="LAST_COMMIT_MESSAGE" value="springMVC" />
+    <MESSAGE value="springMVC end and ssm begin" />
+    <option name="LAST_COMMIT_MESSAGE" value="springMVC end and ssm begin" />
   </component>
 </project>
